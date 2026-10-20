@@ -3,7 +3,7 @@
 // ============================================
 window.APP_CONFIG = {
   // Tempel URL Web App (berakhiran /exec) dari Google Apps Script
-  GAS_URL: 'GANTI_DENGAN_URL_EXEC_ANDA',
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbxLPADnxNu3lc7kNKZfvaGkhSa_lQNvQQvZbkB94TQ0Ptk0NZb0G6L8db7w7PMT354/exec',
 
   // Naikkan angka versi bila bentuk data berubah (cache lama otomatis tak terpakai)
   CACHE_VERSION: 'v1',
